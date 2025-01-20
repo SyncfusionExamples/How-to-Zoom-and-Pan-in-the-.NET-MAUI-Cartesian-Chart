@@ -1,4 +1,4 @@
-# How-to-Zoom-and-Pan-in-the-.NET-MAUI-Cartesian-Chart
+# How to Zoom and Pan in the .NET MAUI Cartesian Chart
 
 This repository contains a sample project demonstrating how to implement zoom and pan functionality in the [.NET MAUI Cartesian Chart](https://help.syncfusion.com/maui/cartesian-charts/getting-started).
 
